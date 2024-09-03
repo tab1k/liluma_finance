@@ -52,7 +52,7 @@
 
 ## Примеры
 
-![Пример графика 1](static/graph1.jpeg)
-![Пример графика 2](static/graph2.jpeg)
+![Пример графика 1](src/static/graph1.jpeg)
+![Пример графика 2](src/static/graph2.jpeg)
 
 
