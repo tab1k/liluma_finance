@@ -52,7 +52,7 @@
 
 ## Примеры
 
-![Пример графика 1](https://example.com/image1.png)
-![Пример графика 2](https://example.com/image2.png)
+![Пример графика 1](static/graph1.jpeg)
+![Пример графика 2](static/graph2.jpeg)
 
 
