@@ -1,0 +1,7 @@
+# Virtual Environment
+
+venv/
+
+.idea/
+src/credentials/*.json
+.DS_Store
